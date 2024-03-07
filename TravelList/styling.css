@@ -1,0 +1,34 @@
+.logo-img{
+    width: 100px;
+    height: 100px;
+}
+.logo{
+    background-color: #FF8C00;
+}
+.logo-title {
+    letter-spacing: 5px;
+    font-size: 100px;
+    color:  #4d2a00;
+}
+.form{
+    background-color:	 #804600 ;
+}
+.pakingList{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: start;
+    background-color: #2d1a04;
+    min-height:300px;
+}
+.stats{
+    background-color: #ff00ff;
+}
+.numOfNeeds{
+    width: 80px;
+}
+.option{
+    background-color:#2d1a04 ;
+}
+.del-need-btn{
+    cursor: pointer;
+}

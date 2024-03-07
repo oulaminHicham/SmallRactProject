@@ -1,0 +1,11 @@
+.greenColor{
+    color: green;
+}
+body
+{
+    background-color: aliceblue;
+}
+.borderTop
+{
+    border-top: 3px solid green;
+}

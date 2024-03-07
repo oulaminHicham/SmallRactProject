@@ -1,0 +1,22 @@
+img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.app
+{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.ad--frend
+{
+    display: flex;
+    justify-content: end;
+}
+.split--with--frend
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
